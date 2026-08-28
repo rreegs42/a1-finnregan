@@ -2,7 +2,7 @@ Readme (delete the above when you're ready to submit, and modify the text below 
 ---
 
 Finn Regan
-https://a1-gettingstarted-regan.onrender.com/
+https://a1-finnregan.onrender.com/
 
 This project shows ...
 
