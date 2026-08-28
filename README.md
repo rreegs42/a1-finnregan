@@ -1,8 +1,8 @@
 Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
 
-Charlie Roberts
-http://a1-charlieroberts.onrender.com
+Finn Regan
+https://a1-gettingstarted-regan.onrender.com/
 
 This project shows ...
 
