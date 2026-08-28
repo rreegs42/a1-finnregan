@@ -91,4 +91,6 @@ This project shows ...
 - **Styled page with CSS**: Added rules for the p, li, and a selectors...
 
 ## Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Used a color pallette**: I used a blue-gold complimentary color palette as the theme for my website. <img width="581" height="467" alt="image" src="https://github.com/user-attachments/assets/c685c83e-51e8-4e83-99a3-75bd924c9ff1" />
+
+
